@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "java-playground"
-include("app")
+include("lib")
